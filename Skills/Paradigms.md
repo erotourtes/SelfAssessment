@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Procedural programming: 🙋explained
+  - Imperative programming: 🙋explained
+  - Structured programming: 👂heard
+  - Non-structured programming: 👂heard
+  - Functional programming: 🎓known
+  - Prototype-based programming: 🖐️used
+  - Object-oriented programming: 🙋explained
+  - Object-based programming: 👂heard
+  - Generic programming: 🙋explained
+  - Concurrent computing: 🖐️used
+  - Asyncronous programming: 🖐️used
+  - Parallel programming: 🖐️used
+  - Reactive programming: 🖐️used
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Multi-paradigm programming: 🖐️used
+  - Metaprogramming: 🎓known
+  - Actor model: 👂heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - constructor: 🙋explained
+  - new: 🖐️used
+  - Static method: 🙋explained
+  - Method: 🙋explained
+  - Async method: 🙋explained
+  - Getters, Setters: 🙋explained
+  - Public fields: 🙋explained
+  - Private fields: 🙋explained
+  - Field declarations: 🙋explained
+  - Inheritance: 🙋explained
+  - Parent class: 🙋explained
+  - Polymorphism: 🙋explained
+  - Abstract class: 🙋explained
+  - Interface: 🙋explained
+  - Encapsulation: 🙋explained
+  - Hidden class: 👂heard
   - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - instance: 🙋explained
+  - Introspection: 👂heard
+  - Reflection: 🎓known
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Singleton: 🚀constructed
+  - Factory Method: 🎓known
+  - Abstract Factory: 🎓known
+  - Adapter: 🚀constructed
+  - Observer: 🚀constructed
+  - Strategy: 🚀constructed
+  - Facade: 🎓known
+  - Proxy: 🎓known
+  - Chain of Responsibility: 🖐️used
+  - Command: 🚀constructed
+  - Iterator: 🚀constructed
+  - State: 🎓known
+  - Bridge: 🎓known
+  - Builder: 🎓known
+  - Prototype: 🎓known
+  - Composite: 🎓known
+  - Decorator: 🖐️used
+  - Flyweight: 🎓known
+  - Mediator: 🎓known
+  - Memento: 🚀constructed
+  - Template Method: 🚀constructed
+  - Visitor: 🎓known
