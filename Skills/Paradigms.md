@@ -15,8 +15,8 @@
   - Parallel programming: 🖐️used
   - Reactive programming: 🖐️used
   - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
+  - Automata-based programming: 🎓known
+  - Domain-specific languages: 🎓known
   - Multi-paradigm programming: 🖐️used
   - Metaprogramming: 🎓known
   - Actor model: 👂heard
@@ -49,7 +49,7 @@
   - Observer: 🚀constructed
   - Strategy: 🚀constructed
   - Facade: 🎓known
-  - Proxy: 🎓known
+  - Proxy: 🖐️used
   - Chain of Responsibility: 🖐️used
   - Command: 🚀constructed
   - Iterator: 🚀constructed
