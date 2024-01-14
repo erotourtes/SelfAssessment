@@ -81,7 +81,7 @@
   - compiler : 🖐️ used
   - transpiler: 🖐️ used
   - linter: 🖐️ used
-  - polyfill
+  - polyfill: 🖐️ used
   - debugger: 🖐️ used
   - garbage collection: 🎓 known
   - refactoring: 🖐️ used
